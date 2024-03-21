@@ -1,0 +1,3 @@
+# AstroNVIM
+
+AstroNVIM config backup
